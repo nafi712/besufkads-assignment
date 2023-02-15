@@ -1,0 +1,42 @@
+*
+.myDiv {
+  border: 0.5px outset gray;
+  background-color:#056973;
+  text-align: center;
+  color: white;
+  font-family: Algerian;
+}
+
+img
+{
+	float: center;
+	width: 160px;
+	height: 160px;
+	border-radius:  300px; 
+	margin: right;
+	align-items: center;
+}
+img {
+opacity: 0.8; }
+img:hover {
+opacity: 1.0;
+color: green }
+h1{
+opacity: 0.8; }
+h1:hover {
+opacity: 1.0;
+}
+h1{
+background-color:#005656;
+color: yellow;
+width: 200px;
+text-align: center;
+}
+h2{
+	height: 100px;
+}
+h2{
+opacity: 0.9; }
+h2:hover {
+opacity: 1.0;
+
